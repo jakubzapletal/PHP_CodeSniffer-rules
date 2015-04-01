@@ -28,8 +28,8 @@ $ composer require --dev jakubzapletal/php_codesniffer-rules ~0.1
 
 ### PSR2 without camel case method name
 
-Sometimes is a code convention to write method names by underscore in test classes. In this case you can still keep checking
-PSR-2 standard thanks to ruleset below.
+Sometimes it is a coding convention to write method names with an underscore in test classes. In this case you can still
+keep checking PSR-2 standard thanks to ruleset below.
 
 ```bash
 $ vendor/bin/phpcs --standard=vendor/jakubzapletal/php_codesniffer-rules/psr2-without-camel-case-method-name.xml </PATH/TO/TESTED/FOLDER>
