@@ -5,7 +5,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/jakubzapletal/php_codesniffer-rules/v/unstable.png)](https://packagist.org/packages/jakubzapletal/php_codesniffer-rules)
 [![License](https://poser.pugx.org/jakubzapletal/php_codesniffer-rules/license.png)](https://packagist.org/packages/jakubzapletal/php_codesniffer-rules)
 
-This is a simple library for modified [PSR](https://github.com/php-fig/fig-standards) rules for [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer).
+This is a simple library of modified [PSR](https://github.com/php-fig/fig-standards) rules for [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer).
 
 ## Installation
 
