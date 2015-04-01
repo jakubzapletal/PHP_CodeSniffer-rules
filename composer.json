@@ -1,5 +1,8 @@
 {
     "name": "jakubzapletal/php_codesniffer-rules",
     "description": "Library of modified PSR rules for PHP_CodeSniffer",
-    "license": "MIT"
+    "license": "MIT",
+    "require": {
+        "squizlabs/php_codesniffer": "~2.0"
+    }
 }
